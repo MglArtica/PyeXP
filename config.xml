@@ -32,7 +32,9 @@
   <splash src="img/splash.png" platform="android" qualifier="fr-xhdpi" />
   <splash src="img/splash.png" platform="android" qualifier="port-xxhdpi" />
   <splash src="img/splash.png" platform="android" qualifier="land-xxhdpi" />
-
+  <access origin="*" />
+  <allow-intent href="http://*/*" />
+  <allow-intent href="https://*/*" />
   <plugin name="cordova-plugin-inappbrowser" spec="1.7.1" />
 
 </widget>
