@@ -16,7 +16,7 @@
   <author href="https://buy-xp.com" email="miguel.artica@alexim.com">
     Alexim Systems
   </author>
-
+  <content src="index.html" />
   <preference name="orientation" value="portrait" />
   <icon src="img/icono.png" platform="android" qualifier="ldpi" />
   <icon src="img/icono.png" platform="android" qualifier="mdpi" />

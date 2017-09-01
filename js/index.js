@@ -37,7 +37,6 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        
-		var ref = window.open('https://erp.alexim.com/mobile/home.aspx','_blank','location=no');
+        var ref = window.open('https://erp.alexim.com/mobile/home.aspx','_blank','location=no');
     }
 };
