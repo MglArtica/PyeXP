@@ -20,12 +20,12 @@
   <preference name="orientation" value="portrait" />
   <plugin name="cordova-plugin-inappbrowser" spec="1.7.1" />
   <platform name="android">
-    <icon src="img/icono.png" qualifier="ldpi" />
-    <icon src="img/icono.png" qualifier="mdpi" />
-    <icon src="img/icono.png" qualifier="hdpi" />
-    <icon src="img/icono.png" qualifier="xhdpi" />
-    <icon src="img/icono.png" qualifier="xxhdpi" />
-    <icon src="img/icono.png" qualifier="fr-xxhdpi" />
+    <icon src="img/icono1.png" qualifier="ldpi" />
+    <icon src="img/icono1.png" qualifier="mdpi" />
+    <icon src="img/icono1.png" qualifier="hdpi" />
+    <icon src="img/icono1.png" qualifier="xhdpi" />
+    <icon src="img/icono1.png" qualifier="xxhdpi" />
+    <icon src="img/icono1.png" qualifier="fr-xxhdpi" />
 
     <splash src="img/splash.png" qualifier="ldpi" />
     <splash src="img/splash.png" qualifier="mdpi" />
